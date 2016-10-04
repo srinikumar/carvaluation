@@ -1,0 +1,71 @@
+location	mileage	price
+Greensboro,NC	26141	29990
+Glenview, IL	27528	25500
+Duluth, GA	50390	24990
+Ft. Pierce, FL	37066	24479
+Col Springs, CO	37350	23700
+Hardeevile, SC	53991	22999
+Ft.Pierce, FL	62735	22990
+Oakhurst, NJ	39763	21335
+Little Falls,NJ	48013	20995
+Tulsa, OK	68290	20953
+Westmont, IL	20590	28000
+Raleigh, NC	27805	27564
+Peoria, AZ	14384	26994
+Brookfield, WI	22318	26992
+Montgomery,AL	39661	26988
+Cincinnati, OH	14534	26500
+Dallas, TX	32101	26388
+Chestr Spgs, PA	39048	25992
+Des Moines, IA	21431	25991
+Augusta,    GA	39637	25990
+Dallas, TX	38306	25888
+Lexington, KY	48706	25850
+San Antonio, TX	31398	25495
+Willoughby H,OH	43728	25209
+Westmont, IL	35570	25000
+Des Moines, IA	35228	24993
+Brookfield, WI	48041	24992
+Roswell,    GA	52096	24991
+Sarasota,   FL	52822	24990
+Duluth,     GA	37180	24990
+Augusta,    GA	42199	24990
+Newport News, VA	36287	24990
+Charlotte, NC	36269	24970
+Manchester, MO	28032	24940
+Fife, WA	31255	24925
+Alexandria, VA	53100	24900
+Newport News, VA	42674	24500
+San Antonio, TX	36341	24495
+North Miami, FL	39283	24478
+Chicago, IL	54964	24442
+Concord, CA	43027	24388
+Merrillville, IN	33356	24292
+Savannah, GA	45683	24227
+Murray, UT	43311	24000
+Schaumburg, IL	41354	23995
+Sarasota,   FL	54364	23990
+Laurel, NJ	36091	23900
+Birmingham, AL	36514	23892
+Schaumburg, IL	39408	23795
+Clearwater, FL	30175	23600
+Highland Park, IL	43188	23600
+Des Moines, IA	65442	23491
+Arlington Heights, IL	57444	23491
+Arlington Heights, IL	32227	23400
+Jacksonville, FL	26145	23369
+Forth Worth, TX	61281	23289
+North Miami, FL	48095	23198
+Annapolis, MD	56449	23062
+Akron, OH	45768	22995
+Glendale, CA	30085	22988
+Appleton, WI	69387	22497
+Rockville, MD	37276	22494
+Utica, MI	69783	22290
+Las Vegas, NV	59655	21991
+Davenport, IA	32987	21977
+Oakhurst, NJ	53440	21835
+Omaha, NE	56139	21750
+St.James, NY	50613	21462
+Portland, OR	55365	20500
+Miami, FL	65460	19277
